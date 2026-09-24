@@ -13,7 +13,7 @@ After installing the app, several possibilities are available :
 
 ## Donations
 Feel free to donate to  support the project !
-[<img src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif">](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=RVBS24SPLU922&currency_code=EUR)
+[<img src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif">](https://paypal.me/thomashoussin958)
 
 # Version History
 ### 0.1.20:
